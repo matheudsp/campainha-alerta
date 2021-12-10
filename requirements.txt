@@ -1,5 +1,5 @@
 requests
-pyttsx3==2.7
+pyttsx3
 SpeechRecognition
 emoji
 pipwin 
