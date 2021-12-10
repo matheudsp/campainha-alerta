@@ -1,4 +1,6 @@
 requests
-pyttsx3
+pyttsx3==2.7
 SpeechRecognition
 emoji
+pipwin 
+#usando pipwin: pipwin install pyaudio 
